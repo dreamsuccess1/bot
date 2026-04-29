@@ -4,7 +4,7 @@
 BOT_TOKEN = "8524298603:AAEkYvP6DO0ftIB4D3RMhpdWyX1gmjDd6XA"
 
 # 2. Aapka Telegram ID (@userinfobot se pata karo)
-ADMIN_IDS = [1215408118]
+ADMIN_IDS = [1215408118,552076662]
 
 # 3. Bot details
 BOT_NAME   = "Dream Success Bot"
